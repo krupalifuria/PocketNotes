@@ -15,14 +15,6 @@ Pocket Notes is a `MERN Application` where you can take `E-Notes` anytime anywhe
 - Single Page Web-Application
 - Notes on the Cloud
 
-## Live Demo Website
-
-https://pocket-notes-mern.onrender.com/
-
-## GitHub Repository
-
-https://github.com/devanshdsoni/pocket-notes-mern
-
 ## Tech Stack
 
 **Client:** ReactJS, TailwindCSS, HTML, JavaScript
@@ -41,7 +33,7 @@ To run this project, you will need to add the following environment variables to
 
 `NODE_ENV`
 
-# Hi, I'm Devansh!
+# Hi, I'm Krupali!
 
 - `Full Stack Web Developer`
 - `MERN Stack Developer`
@@ -52,10 +44,5 @@ To run this project, you will need to add the following environment variables to
 
 `ReactJS` `MongoDB` `Express` `Node` `Tailwind CSS`
 
-## Links
-
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshdsoni/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshdsoni/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devanshdsoni)
 
 ### **Thanks for Visiting** :)

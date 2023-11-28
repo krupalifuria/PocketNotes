@@ -55,13 +55,13 @@ const Footer = () => {
           <p className="pl-1">
             Phone :{" "}
             <a className="opacity-70 hover:opacity-100 text-sm" href="tel:6260478442">
-              6260478442
+              9594680822
             </a>{" "}
           </p>
           <p className="pl-1">
             Email :{" "}
             <a className="opacity-70 hover:opacity-100 text-sm" href="mailto:devanshsoni811@gmail.com">
-              devanshsoni811@gmail.com
+              krupalifuria@gmail.com
             </a>{" "}
           </p>
           <div className=" pl-1 flex space-x-4">
@@ -88,7 +88,7 @@ const Footer = () => {
             rel="noreferrer"
           >
             {" "}
-            Devansh Soni
+            Krupali Furia
           </a>
         </span>
       </div>
