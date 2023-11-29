@@ -22,8 +22,9 @@ router.post(
       const salt = await bcrypt.genSalt(10);
       const secPassword = await bcrypt.hash(req.body.password, salt);
 
+      console.log(req.body)
       // User(req.body).save()  //------> 1st way to save user in DB
-      let user = await User.create({
+      const user = await User.create({
         name: req.body.name,
         password: secPassword,
         email: req.body.email,
